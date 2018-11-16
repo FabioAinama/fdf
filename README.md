@@ -10,3 +10,7 @@ Also try '1' until 9 of your keybord for rotations.
 '+' and '-' for the zoom, and '/' '*' to modify the 'z' attribute (height) of the map.
 
 Enjoy
+
+![alt text](https://raw.githubusercontent.com/FabioAinama/fdf/master/rsc/Screen Shot 2018-11-16-3.png)
+![alt text](https://raw.githubusercontent.com/FabioAinama/fdf/master/rsc/Screen Shot 2018-11-16-1.png)
+![alt text](https://raw.githubusercontent.com/FabioAinama/fdf/master/rsc/Screen Shot 2018-11-16-2.png)
