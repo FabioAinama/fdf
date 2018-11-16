@@ -11,6 +11,6 @@ Also try '1' until 9 of your keybord for rotations.
 
 Enjoy
 
-![alt text](https://raw.githubusercontent.com/FabioAinama/fdf/master/rsc/Screen Shot 2018-11-16-3.png)
-![alt text](https://raw.githubusercontent.com/FabioAinama/fdf/master/rsc/Screen Shot 2018-11-16-1.png)
-![alt text](https://raw.githubusercontent.com/FabioAinama/fdf/master/rsc/Screen Shot 2018-11-16-2.png)
+![grade](https://github.com/FabioAinama/fdf/master/rsc/Screen Shot 2018-11-16-3.png)
+![france](https://github.com/FabioAinama/fdf/master/rsc/Screen Shot 2018-11-16-1.png)
+![mars](https://github.comFabioAinama/fdf/master/rsc/Screen Shot 2018-11-16-2.png)
